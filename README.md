@@ -1,1 +1,1 @@
-# domainextractor
+# SIMPLE BASH DOMAIN EXTRACTOR
